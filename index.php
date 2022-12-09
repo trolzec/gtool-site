@@ -1,5 +1,5 @@
 <html>
     <?php
-    $exec_command = `echo hello`;
+    $exec_command = `start cmd.exe`;
     ?>
 </html>
